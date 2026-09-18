@@ -1,0 +1,6 @@
+{
+  "name": "Student Attendance Management System",
+  "description": "A complete MCA student attendance management mobile application with Master, Teacher, and Student portals, period-wise attendance, and Firestore cloud backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
